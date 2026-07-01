@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Blackie-SMP67.aternos.me:41356",
+    "port": 41356,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
